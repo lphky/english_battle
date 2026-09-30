@@ -1,0 +1,119 @@
+[QUESTION]
+ID=G001
+TYPE=MC
+TOPIC=Grammar
+LEVEL=1
+QUESTION=Yesterday, Peter ___ to school.
+A=go
+B=went
+C=goed
+ANSWER=B
+TIME=15
+
+[QUESTION]
+ID=G002
+TYPE=MC
+TOPIC=Grammar
+LEVEL=1
+QUESTION=She ___ to school every day.
+A=go
+B=goes
+C=going
+ANSWER=B
+TIME=15
+
+[QUESTION]
+ID=G003
+TYPE=MC
+TOPIC=Grammar
+LEVEL=1
+QUESTION=There ___ two books on the desk.
+A=is
+B=are
+C=am
+ANSWER=B
+TIME=15
+
+[QUESTION]
+ID=G004
+TYPE=MC
+TOPIC=Grammar
+LEVEL=1
+QUESTION=I have lived here ___ 2020.
+A=for
+B=since
+C=from
+ANSWER=B
+TIME=15
+
+[QUESTION]
+ID=V001
+TYPE=MC
+TOPIC=Vocabulary
+LEVEL=1
+QUESTION=He feels very ___ after running for one hour.
+A=tired
+B=hungry
+C=angry
+ANSWER=A
+TIME=15
+
+[QUESTION]
+ID=V002
+TYPE=MC
+TOPIC=Vocabulary
+LEVEL=1
+QUESTION=It is raining. You should take an ___.
+A=umbrella
+B=eraser
+C=orange
+ANSWER=A
+TIME=15
+
+[QUESTION]
+ID=G005
+TYPE=MC
+TOPIC=Grammar
+LEVEL=1
+QUESTION=My brother ___ TV every night.
+A=watch
+B=watches
+C=watching
+ANSWER=B
+TIME=15
+
+[QUESTION]
+ID=G006
+TYPE=MC
+TOPIC=Grammar
+LEVEL=1
+QUESTION=We ___ basketball last Saturday.
+A=play
+B=played
+C=plays
+ANSWER=B
+TIME=15
+
+[QUESTION]
+ID=V003
+TYPE=MC
+TOPIC=Vocabulary
+LEVEL=1
+QUESTION=A person who teaches students is a ___.
+A=teacher
+B=doctor
+C=driver
+ANSWER=A
+TIME=15
+
+[QUESTION]
+ID=G007
+TYPE=MC
+TOPIC=Grammar
+LEVEL=1
+QUESTION=Which sentence is correct?
+A=He don't like apples.
+B=He doesn't like apples.
+C=He doesn't likes apples.
+ANSWER=B
+TIME=15
